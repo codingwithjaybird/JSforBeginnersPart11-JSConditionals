@@ -1,0 +1,22 @@
+body {
+  max-width: 60vw;
+  margin: auto;
+  margin-top: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: steelblue;
+}
+
+ul {
+  border: 1px solid steelblue;
+  border-radius: 10px;
+  padding: 20px 50px;
+  list-style: none;
+  background-color: lightcyan;
+}
+
+li {
+  padding: 10px;
+}
